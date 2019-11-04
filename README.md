@@ -1,5 +1,5 @@
 # AIOthello
 
-Membros:  Bruno Gavarra
-          Joao Pedro 
+Membros:  Bruno Gavarra,
+          Joao Pedro, 
           Philipi Siqueira
