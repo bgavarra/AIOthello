@@ -2,9 +2,10 @@
 
 Membros:  
 Bruno Gavarra,
-Joao Pedro, 
+Joao Pedro,
 Philipi Siqueira
 
+------------------------------------------------------------------------------------------------------------------------------------------
 IA - heuristica:
 MarioPlayer - Algoritmo MiniMax com heuristica de quantidade de pontos(melhor jogada eh a que eu consigo fazer mais pontos).
 
